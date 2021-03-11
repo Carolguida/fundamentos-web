@@ -1,4 +1,11 @@
 /*Estilos da página index.html*/
+
+body{
+    
+   background-image:linear-gradient(rgba(41, 58, 156, 0.5), rgba(167, 171, 204, 0.692));
+   
+}
+
 .justify{
     font-size: 20px;
     text-align: justify;
@@ -35,7 +42,9 @@
 }
 
 .br-50{
+    
     border-radius: 50%;
+    border-bottom: 2mm ridge rgba(40, 8, 128, 0.6);
 }
 
 .wh-300{
@@ -51,6 +60,8 @@
 .mg-50{
     margin-bottom: 50px;
 }
+
+
 /*Estilos da página contato.html*/
 
 .ml-50{
